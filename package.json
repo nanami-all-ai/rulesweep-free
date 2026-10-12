@@ -1,0 +1,37 @@
+{
+  "name": "rulesweep",
+  "version": "0.1.2",
+  "description": "CLAUDE.md audit CLI (free edition): measure the per-turn token cost of CLAUDE.md / .claude/rules, and count duplicate lines, contradictions and broken references. No API key required.",
+  "keywords": [
+    "claude-code",
+    "claude-md",
+    "context-window",
+    "token-optimization",
+    "cli",
+    "audit",
+    "agent-harness"
+  ],
+  "homepage": "https://github.com/nanami-all-ai/rulesweep-free#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanami-all-ai/rulesweep-free.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanami-all-ai/rulesweep-free/issues"
+  },
+  "author": "nanami_773",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": {
+    "rulesweep": "bin/rulesweep.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
