@@ -57,7 +57,7 @@ $ npx rulesweep audit --root demo-project --reload-factor 3
 
   Which sections to move into skills/subagents, how to fix them, and
   tracking the savings are in the paid edition (sort / stub / rewrite / remeasure).
-  Paid edition: https://ogawana.gumroad.com/l/rulesweep
+  Paid edition: https://nanamiallai.gumroad.com/l/rulesweep
 ```
 
 What it reports:
@@ -80,7 +80,7 @@ These are pattern-matching heuristics. They point you at places to look, not ver
 | Before/after against a saved baseline | — | yes (`remeasure`) |
 | Optional slimmed-draft rewrite with your own API key (BYOK) | — | yes (`rewrite`) |
 
-Paid edition: https://ogawana.gumroad.com/l/rulesweep
+Paid edition: https://nanamiallai.gumroad.com/l/rulesweep
 
 #### Why the free edition stops here
 
@@ -138,7 +138,7 @@ node bin/rulesweep.mjs audit --global --reload-factor 3
 - 壊れた参照リンクの件数（存在しないファイルを指す`` `path.md` ``や`[[wikilink]]`）
 - 矛盾候補の件数
 
-無料版はここまでです。「どのセクションを skill/subagent に退避すべきか」「実際にどう直すか」「修正後にどれだけ削減できたか」の一歩先は、有料版（$29・https://ogawana.gumroad.com/l/rulesweep ）の`sort` / `stub` / `remeasure`ループで扱います。
+無料版はここまでです。「どのセクションを skill/subagent に退避すべきか」「実際にどう直すか」「修正後にどれだけ削減できたか」の一歩先は、有料版（$29・https://nanamiallai.gumroad.com/l/rulesweep ）の`sort` / `stub` / `remeasure`ループで扱います。
 
 #### なぜ無料版はここで止めているのか
 
@@ -154,7 +154,7 @@ Node.js 18+。API キー不要。
 
 ### フル機能（有料版）が欲しい場合
 
-→ https://ogawana.gumroad.com/l/rulesweep （Gumroad: rulesweep $29 買い切り。振り分けワークシート・退避スタブ自動生成・BYOKリライト・before/after計測）
+→ https://nanamiallai.gumroad.com/l/rulesweep （Gumroad: rulesweep $29 買い切り。振り分けワークシート・退避スタブ自動生成・BYOKリライト・before/after計測）
 
 ### ライセンス
 

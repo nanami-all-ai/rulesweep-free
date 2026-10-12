@@ -42,7 +42,7 @@ export function t(key, vars = {}) {
   return typeof msg === "function" ? msg(vars) : msg;
 }
 
-const PAID_URL = "https://ogawana.gumroad.com/l/rulesweep";
+const PAID_URL = "https://nanamiallai.gumroad.com/l/rulesweep";
 
 register(
   {
